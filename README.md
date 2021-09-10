@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m developing eye-tracking application to support medical professionals: https://www.medunigraz.at/idn/fwf-klif/
+- 🔭 I’m developing eye-tracking applications to support medical professionals: https://www.medunigraz.at/idn/fwf-klif/
 - 🌱 I’m currently learning React, and Deep Learning
 - 👯 I’m looking to collaborate on interesting ideas
 - 🤔 I’m looking for help with reinforcement learning, javascript programming
