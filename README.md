@@ -10,3 +10,9 @@
 - ⚡ Fun fact: I am much more than just my research work: https://www.researchgate.net/profile/Nelson-Silva-14/research
 
 # Check also the main page: [njssnjss.github.io](http://njssnjss.github.io)
+
+### GitHub Stats
+
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=njss&show_icons=true&theme=merko&count_private=true&include_all_commits=true"/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=njss&theme=merko&hide=php,css&layout=compact)](https://github.com/njss/github-readme-stats)
