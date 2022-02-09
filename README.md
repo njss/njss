@@ -2,7 +2,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=njss.visitor-badge)
 ### Hi there 👋
 
-- 🔭 I’m developing eye-tracking applications to support medical professionals: https://www.medunigraz.at/idn/fwf-klif/
+- 🔭 I’m developing eye-tracking applications to support medical professionals: https://typo3-old.medunigraz.at/idn/initiatives-projects/fwf-klif-tracking-gms/
 - 🌱 I’m currently learning React, and Deep Learning
 - 👯 I’m looking to collaborate on interesting ideas
 - 🤔 I’m looking for help with reinforcement learning, javascript programming
