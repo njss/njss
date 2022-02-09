@@ -6,9 +6,9 @@
 - 🌱 I’m currently learning React, and Deep Learning
 - 👯 I’m looking to collaborate on interesting ideas
 - 🤔 I’m looking for help with reinforcement learning, javascript programming
-- 💬 Ask me about Strategic Intelligence, Reverse Engineering and Rapid Prototyping, NLP, Visual Analytics, Travel, ...
+- 💬 Ask me about Eye-tracking, Visual Analytics, Strategic Intelligence, Reverse Engineering and Rapid Prototyping, AI, AR, Change Management, How to be kind to one another and Travel
 - 📫 How to reach me: njssnjss@gmail.com
-- 😄 Keywords: eye-tracking, support, adapt, GMA, body pose estimation, experiments
+- 😄 Keywords: eye-tracking, support, adapt, GMA, body pose estimation, experiments, AR, visual analytics, relationships extraction, change management, human factors
 - ⚡ Fun fact: I am much more than just my research work: https://www.researchgate.net/profile/Nelson-Silva-14/research
 
 # Check also the main page: [njssnjss.github.io](http://njssnjss.github.io)
